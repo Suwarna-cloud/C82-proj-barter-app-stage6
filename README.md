@@ -1,1 +1,2 @@
-# C82-proj-barter-app-stage6
+# barter-app-stage-6
+project 82
